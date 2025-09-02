@@ -23,7 +23,7 @@ It shows the current weather and today’s forecast (max/min temperature, sunris
 ---
 
 ## 📦 Setup & Installation
-1. Clone this repo  
+1. Clone this repo
 2.cd file
 3.npm install
 4.npm i axios
